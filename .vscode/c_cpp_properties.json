@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW-C11",
+            "compilerPath": "c:/mingw/bin/gcc.exe",
+            "cStandard": "c11",
+            "intelliSenseMode": "gcc-x86",
+            "includePath": [
+                "c:/mingw/lib/gcc/mingw32/6.3.0/include",
+                "c:/mingw/lib/gcc/mingw32/6.3.0/include-fixed",
+                "c:/mingw/include",
+                "${workspaceFolder}/**"
+            ],
+            "browse": {
+                "path": [
+                    "c:/mingw/lib/gcc/mingw32/6.3.0/include",
+                    "c:/mingw/include",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
