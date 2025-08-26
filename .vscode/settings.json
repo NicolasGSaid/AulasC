@@ -8,5 +8,8 @@
             "path": "C:\\Windows\\System32\\cmd.exe"
         }
     },
-    "terminal.integrated.shell.windows": null
+    "terminal.integrated.shell.windows": null,
+    "files.associations": {
+        "APS.C": "cpp"
+    }
 }
